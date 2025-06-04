@@ -37,6 +37,7 @@ To get started, clone the repository by running the following command:
 ```bash
 git clone https://github.com/ZeroDayz-bhatt/GhostLoad.git
 cd GhostLoad
+ls
 python ZeroDayz-bhatt.py
 ```
 
