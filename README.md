@@ -26,3 +26,17 @@ This is a simple Python-based load tester tool designed to simulate HTTP GET req
 ## Usage
 
 1. Ensure Python 3 and the `requests` library are installed:
+
+# Kali Linux Install 
+
+
+*Clone the repository:*
+
+To get started, clone the repository by running the following command:
+
+```bash
+git clone https://github.com/ZeroDayz-bhatt/GhostLoad.git
+cd GhostLoad
+python ZeroDayz-bhatt.py
+```
+
